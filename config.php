@@ -5,5 +5,7 @@
         }
     };
 
-    sql_autoload_register($print);
+   
+    spl_autoload_register($print);
+
 ?>

@@ -1,7 +1,7 @@
 <?php
     class Mysql{
-        public static function instagram(){
-            echo '<h1>@lucasdeluna_dev</h1>';
+        public static function teste(){
+            echo '<h1 style="color:red;">Teste</h1>';
         }
     }
            
